@@ -10,10 +10,8 @@ Since the dataset is **imbalanced**, we conduct experiments **twice for each mod
 2️⃣ On the **balanced dataset** (using **undersampling**)  
 
 ## 📂 Dataset  
-The dataset used in this project comes from the following publication:  
-> **Almeida, T.A., Gómez Hidalgo, J.M., Yamakami, A.**  
-> *Contributions to the Study of SMS Spam Filtering: New Collection and Results.*  
-> Proceedings of the 2011 ACM Symposium on Document Engineering (DOCENG'11), Mountain View, CA, USA, 2011.  
+The dataset used in this project comes from the Kaggle:  
+[Original data on SMS Spam Filtering from kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 📌 **Please cite the original authors if you use this dataset.**  
 
